@@ -1,6 +1,6 @@
 ## **Cara Mendownload APK Expider**
 
-1. Download Code ke menggunakan zip
+1. Download Code ke dalam format zip
 2. Test Run apakah code bisa jalan (Kami menggunakan Android Studio Ladybug Patch 2)
 3. Connect ke handphone Android (API min 33)
 4. Buka Build -> Build App Bundle(s)/APK -> Build APK
